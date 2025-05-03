@@ -1,20 +1,18 @@
-# Vivado project temporary files
+# Vivado auto-generated folders
+wallace_tree_multiplier.cache/
+wallace_tree_multiplier.hw/
+wallace_tree_multiplier.sim/
+wallace_tree_multiplier.ip_user_files/
+
+# Vivado temporary and log files
 *.jou
 *.log
 *.str
-*.pb
-*.tmp
-*.xml
-*.html
-*.backup
-*.restore
 *.wdb
-*.xpr
-*.xpr.user
-.sim/
-.hw/
-.ip_user_files/
-.cache/
-.hw-handoff/
-.webtalk/
-vivado*
+*.wcfg
+*.wdf
+*.wpc
+*.db
+
+# Webtalk data (Vivado telemetry)
+*.webtalk/
