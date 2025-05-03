@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../full_adder/full_adder.srcs/sources_1/new/fulladder.v" \
+"../../../../../../verilog programs/half_adder.v" \
+
+sv xil_defaultlib  \
+"../../../../wallace_tree_multiplier.srcs/sources_1/new/halfadder.sv" \
+"../../../../../32bitadder/32bitadder.srcs/sources_1/new/nbitadder.sv" \
+"../../../../wallace_tree_multiplier.srcs/sources_1/new/wallacetree.sv" \
+"../../../../wallace_tree_multiplier.srcs/sim_1/new/wallace_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

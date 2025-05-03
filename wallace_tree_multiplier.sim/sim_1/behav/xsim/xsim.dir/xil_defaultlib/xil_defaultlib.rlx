@@ -1,0 +1,11 @@
+0.7
+2020.2
+Dec 15 2024
+09:05:09
+C:/Users/Adithya/Documents/verilog programs/half_adder.v,1742079489,verilog,,C:/Users/Adithya/Documents/vivado/wallace_tree_multiplier/wallace_tree_multiplier.srcs/sources_1/new/wallacetree.v,,half_adder,,uvm,,,,,,
+C:/Users/Adithya/Documents/vivado/32bitadder/32bitadder.srcs/sources_1/new/nbitadder.sv,1745058210,systemVerilog,,C:/Users/Adithya/Documents/vivado/wallace_tree_multiplier/wallace_tree_multiplier.srcs/sources_1/new/wallacetree.sv,,nbitadder,,uvm,,,,,,
+C:/Users/Adithya/Documents/vivado/full_adder/full_adder.srcs/sources_1/new/fulladder.v,1742219402,verilog,,C:/Users/Adithya/Documents/verilog programs/half_adder.v,,fulladder,,uvm,,,,,,
+C:/Users/Adithya/Documents/vivado/wallace_tree_multiplier/wallace_tree_multiplier.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/Adithya/Documents/vivado/wallace_tree_multiplier/wallace_tree_multiplier.srcs/sim_1/new/wallace_tb.sv,1745529379,systemVerilog,,,,wallace_tb,,uvm,,,,,,
+C:/Users/Adithya/Documents/vivado/wallace_tree_multiplier/wallace_tree_multiplier.srcs/sources_1/new/halfadder.sv,1745245358,systemVerilog,,C:/Users/Adithya/Documents/vivado/32bitadder/32bitadder.srcs/sources_1/new/nbitadder.sv,,halfadder,,uvm,,,,,,
+C:/Users/Adithya/Documents/vivado/wallace_tree_multiplier/wallace_tree_multiplier.srcs/sources_1/new/wallacetree.sv,1745530152,systemVerilog,,C:/Users/Adithya/Documents/vivado/wallace_tree_multiplier/wallace_tree_multiplier.srcs/sim_1/new/wallace_tb.sv,,wallacetree,,uvm,,,,,,

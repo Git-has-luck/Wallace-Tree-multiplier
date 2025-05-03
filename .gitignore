@@ -1,0 +1,20 @@
+# Vivado project temporary files
+*.jou
+*.log
+*.str
+*.pb
+*.tmp
+*.xml
+*.html
+*.backup
+*.restore
+*.wdb
+*.xpr
+*.xpr.user
+.sim/
+.hw/
+.ip_user_files/
+.cache/
+.hw-handoff/
+.webtalk/
+vivado*
